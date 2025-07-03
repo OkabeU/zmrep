@@ -1,5 +1,1 @@
-bash
-echo "print('Commit 1')" > file1.py
-git add file1.py
-git commit -m "Commit 1"
-git push
+print('Commit 1')
